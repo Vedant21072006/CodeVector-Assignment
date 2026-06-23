@@ -6,7 +6,7 @@
 https://codevector-assignment-983p.onrender.com
 
 ### Frontend
-https://your-app.vercel.app
+https://code-vector-assignment-tau.vercel.app/
 
 ### GitHub Repository
 https://github.com/Vedant21072006/CodeVector-Assignment
